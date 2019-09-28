@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uwuuphuade.moniker.hiv/sitemap.xml
